@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @lucasR23
+- 👀 I’m interested in problem solving and learning and i dont have yet a especific area of programming that i focus all of my time
+- 🌱 I’m currently learning Kotlin and Springboot on my free time and improving my knownledge in React.js, React-Native and Node.js in my work
+- 💞️ I’m looking to collaborate on any project that i can help with my knowledge so i can start to enter the free software world :) !
+- 📫 To reach me you can send an email to lrsantostw@gmail.com
