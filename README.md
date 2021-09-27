@@ -1,5 +1,4 @@
 - 👋 Hi, I'm @ lucasR23
 - 👀 I have a degree in computer engineering and I am interested in many areas, such as software engineering, artificial intelligence and cybersecurity
 - 🌱 I am currently improving my software engineering skills, learning more about software infrastructure with a focus on AWS services
-- 💞️ Here at Github, I would like to collaborate on any project that can help with my knowledge so that I can start exploring the world of free software
 - 📫 To contact me, you can send an email to lrsantostw@gmail.com
