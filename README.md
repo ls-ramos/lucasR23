@@ -1,4 +1,4 @@
 - 👋 Hi, I'm @ lucasR23
-- 👀 I have a degree in computer engineering and I am interested in many areas, such as software engineering, artificial intelligence and cybersecurity
-- 🌱 I am currently improving my software engineering skills, learning more about software infrastructure with a focus on AWS services
+- 👀 I have a degree in computer engineering and I am interested in basically everything that involves technology.
+- 🌱 I am always trying to improving my software engineering skills, and currently I am doing that learning more about infrastructure and cloud
 - 📫 To contact me, you can send an email to lrsantostw@gmail.com
